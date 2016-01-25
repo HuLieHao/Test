@@ -10,11 +10,7 @@ import org.apache.commons.httpclient.params.HttpMethodParams;
 
 import javax.xml.ws.http.HTTPException;
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.Random;
-import java.util.concurrent.LinkedBlockingQueue;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
 
 /**
  * User:  maktub
